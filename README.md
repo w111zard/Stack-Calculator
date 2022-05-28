@@ -25,5 +25,6 @@ $ (2 + 2) * 2 = 8.00
 ```
 # Uninstall
 ```bash
+$ make clean
 $ sudo make uninstall
 ```
